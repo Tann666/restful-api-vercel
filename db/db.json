@@ -2,30 +2,51 @@
     "posts": [
         {
           "id": 1,
-          "title": "The Pieces We Keep",
-          "author": "Kristina McMorris",
-          "star": 4,
-          "price": "12.99",
-          "introduction": "A heart-wrenching tale of love, loss, and the enduring power of family bonds.",
-          "image": "https://i.imgur.com/Ovzmb0t.jpeg"
+          "title": "Croissant",
+          "type": "viennoiseries",
+          "price": "1.80$",
+          "introduction": "Pâte à croissant",
+          "image": "https://www.yanncouvreur.com/cdn/shop/files/CROISSANT_CARRE.jpg?v=1728061642, https://www.yanncouvreur.com/cdn/shop/files/CROISSANTSCARRE.jpg?v=1704990706"
         },
         {
           "id": 2,
-          "title": "qui est esse",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721918653l/198902277.jpg",
-          "author": "Kristina McMorris",
-          "star": 4,
-          "price": "12.99",
-          "introduction": "A heart-wrenching tale of love, loss, and the enduring power of family bonds."
+          "title": "Pain au Chocolat",
+          "type": "viennoiseries",
+          "price": "2.00$",
+          "introduction": "Pâte à croissant enroulée sur deux barres de chocolat",
+          "image": "https://www.yanncouvreur.com/cdn/shop/files/PAIN_CHOCOLAT_CARRE.jpg?v=1728061728, https://www.yanncouvreur.com/cdn/shop/files/PAINCHOCOLATCARRE.jpg?v=1704990628"
         },
         {
           "id": 3,
-          "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721918653l/198902277.jpg",
-          "author": "Kristina McMorris",
-          "star": 4,
-          "price": "12.99",
-          "introduction": "A heart-wrenching tale of love, loss, and the enduring power of family bonds."
+          "title": "Pain aux raisins",
+          "type": "viennoiseries",
+          "price": "3.90$",
+          "introduction": "Pâte à brioche",
+          "image": "https://www.yanncouvreur.com/cdn/shop/files/PAINAUXRAISINSCARRE.jpg?v=1710321663"
+        },
+        {
+          "id": 4,
+          "title": "Suisse coco",
+          "type": "viennoiseries",
+          "price": "3.90$",
+          "introduction": "Pâte à levée feuilletée,Crème au praliné coco et aux pépites de chocolat au laitDécor : lamelles de coco séchée, sucre glace Taille : 12cm",
+          "image": "https://www.yanncouvreur.com/cdn/shop/files/PAINSUISSECARRE.jpg?v=1730302254, https://www.yanncouvreur.com/cdn/shop/files/PAINSUISSEV1CARRE.jpg?v=1730302255"
+        },
+        {
+          "id": 5,
+          "title": "Brioche Bostock",
+          "type": "viennoiseries",
+          "price": "4.50$",
+          "introduction": "Brioche imbibé au sirop avec du Rhum, crème d&#39;AMANDE, Décor : AMANDES effilées, poudre vanille",
+          "image": "https://www.yanncouvreur.com/cdn/shop/files/BOSTOCKCARRE.jpg?v=1703097616"
+        },
+        {
+          "id": 6,
+          "title": "Chocolat noir praliné noisette",
+          "type": "pâques",
+          "price": "69.00$",
+          "introduction": "Œuf en chocolat noir fourré au praliné noisette, garni d’un assortiment de chocolats",
+          "image": "https://www.yanncouvreur.com/cdn/shop/files/duonoir.jpg?v=1743005786, https://www.yanncouvreur.com/cdn/shop/files/oeufouvertcarre.jpg?v=1743095941"
         }
       ]
 }
