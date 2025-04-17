@@ -5,7 +5,8 @@
           "title": "Croissant",
           "type": "viennoiseries",
           "price": "1.80$",
-          "introduction": "Pâte à croissant",
+          "rating": 4.5,
+          "introduction": "Un croissant pur beurre traditionnel français, feuilleté à la perfection. Sa texture est croustillante à l'extérieur et moelleuse à l'intérieur. Fait à la main avec du beurre AOP de haute qualité.",
           "image": "https://www.yanncouvreur.com/cdn/shop/files/CROISSANT_CARRE.jpg?v=1728061642, https://www.yanncouvreur.com/cdn/shop/files/CROISSANTSCARRE.jpg?v=1704990706"
         },
         {
@@ -13,7 +14,8 @@
           "title": "Pain au Chocolat",
           "type": "viennoiseries",
           "price": "2.00$",
-          "introduction": "Pâte à croissant enroulée sur deux barres de chocolat",
+          "rating": 4.7,
+          "introduction": "Une viennoiserie gourmande composée d'une pâte feuilletée pur beurre enroulée autour de deux barres de chocolat noir de qualité supérieure. Le mariage parfait entre le beurre et le chocolat.",
           "image": "https://www.yanncouvreur.com/cdn/shop/files/PAIN_CHOCOLAT_CARRE.jpg?v=1728061728, https://www.yanncouvreur.com/cdn/shop/files/PAINCHOCOLATCARRE.jpg?v=1704990628"
         },
         {
@@ -21,7 +23,8 @@
           "title": "Pain aux raisins",
           "type": "viennoiseries",
           "price": "3.90$",
-          "introduction": "Pâte à brioche",
+          "rating": 4.8,
+          "introduction": "Une délicieuse spirale de pâte à brioche garnie de crème pâtissière et de raisins secs réhydratés. Parfumé à la vanille et saupoudré de sucre glace pour une touche de douceur supplémentaire.",
           "image": "https://www.yanncouvreur.com/cdn/shop/files/PAINAUXRAISINSCARRE.jpg?v=1710321663"
         },
         {
@@ -29,7 +32,8 @@
           "title": "Suisse coco",
           "type": "viennoiseries",
           "price": "3.90$",
-          "introduction": "Pâte à levée feuilletée,Crème au praliné coco et aux pépites de chocolat au laitDécor : lamelles de coco séchée, sucre glace Taille : 12cm",
+          "rating": 4.9,
+          "introduction": "Une création unique combinant une pâte feuilletée légère avec une crème onctueuse au praliné coco et des pépites de chocolat au lait. Décoré de lamelles de noix de coco séchée et de sucre glace. Format généreux de 12cm.",
           "image": "https://www.yanncouvreur.com/cdn/shop/files/PAINSUISSECARRE.jpg?v=1730302254, https://www.yanncouvreur.com/cdn/shop/files/PAINSUISSEV1CARRE.jpg?v=1730302255"
         },
         {
@@ -37,7 +41,8 @@
           "title": "Brioche Bostock",
           "type": "viennoiseries",
           "price": "4.50$",
-          "introduction": "Brioche imbibé au sirop avec du Rhum, crème d&#39;AMANDE, Décor : AMANDES effilées, poudre vanille",
+          "rating": 5.0,
+          "introduction": "Une brioche moelleuse imbibée d'un sirop parfumé au rhum, recouverte d'une généreuse couche de crème d'amande. Décorée d'amandes effilées dorées et d'une délicate touche de poudre de vanille naturelle.",
           "image": "https://www.yanncouvreur.com/cdn/shop/files/BOSTOCKCARRE.jpg?v=1703097616"
         },
         {
@@ -45,7 +50,8 @@
           "title": "Chocolat noir praliné noisette",
           "type": "pâques",
           "price": "69.00$",
-          "introduction": "Œuf en chocolat noir fourré au praliné noisette, garni d’un assortiment de chocolats",
+          "rating": 4.6,
+          "introduction": "Un œuf de Pâques artisanal en chocolat noir 70%, garni d'un onctueux praliné aux noisettes torréfiées. Accompagné d'un assortiment de chocolats fins faits maison. Une création exclusive parfaite pour célébrer Pâques.",
           "image": "https://www.yanncouvreur.com/cdn/shop/files/duonoir.jpg?v=1743005786, https://www.yanncouvreur.com/cdn/shop/files/oeufouvertcarre.jpg?v=1743095941"
         }
       ]
